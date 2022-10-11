@@ -1,5 +1,5 @@
 <img width="848" alt="It's me" src="https://user-images.githubusercontent.com/74871887/195163102-f0eb6d11-09cb-42b9-945e-9ba28c466779.png">
-<h3 align="center">Just a girl who's trying to learn new technologies to make the lives of people around her better and more interesting.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjaan&label=Profile%20views&color=0e75b6&style=flat" alt="gunjaan" /> </p>
 
