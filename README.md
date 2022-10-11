@@ -1,5 +1,5 @@
-<img width="848" alt="It's me" src="https://user-images.githubusercontent.com/74871887/195163102-f0eb6d11-09cb-42b9-945e-9ba28c466779.png">
-<h3 align="center"></h3>
+
+<img width="828" alt="Screenshot 2022-10-11 at 11 40 57 PM" src="https://user-images.githubusercontent.com/74871887/195167576-0a9b47c8-c589-4ef9-89e7-d5e50545589f.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjaan&label=Profile%20views&color=0e75b6&style=flat" alt="gunjaan" /> </p>
 
