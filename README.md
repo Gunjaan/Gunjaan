@@ -1,59 +1,67 @@
-<h2 align="left">Hey! My name is Gunjan Verma.</h2>
+<h2 align="center">Hey! My name is Gunjan Verma.</h2>
 
 ###
 
-<h4 align="left">Flutter Developer | Data Science & ML enthusiast.</h4>
+<h4 align="center">Flutter Developer | Data Science & ML enthusiast.</h4>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="30" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47t9rznk3ohxtyjib0ofc52b8ekz6qij99094i3zn2&ep=v1_gifs_search&rid=200w.webp&ct=g"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="29" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="29" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="29" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="29" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="29" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="29" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dart" height="29" alt="dart logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="29" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="29" alt="opencv logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="29" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="29" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="29" alt="numpy logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="29" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="29" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="29" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="29" alt="pandas logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="29" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c" height="29" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="29" alt="kaggle logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="29" alt="xcode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="29" alt="rstudio logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="29" alt="neo4j logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="29" alt="heroku logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="29" alt="matlab logo"  />
 </div>
 
 ###
@@ -82,15 +90,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/200w.webp?cid=ecf05e47t9rznk3ohxtyjib0ofc52b8ekz6qij99094i3zn2&ep=v1_gifs_search&rid=200w.webp&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Gunjaan/Gunjaan/output/snake.svg" alt="Snake animation" />
 
 ###
