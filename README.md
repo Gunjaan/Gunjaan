@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Flutter Developer | Data Science & ML enthusiast.</h4>
+<h4 align="center"> Software Developer </h4>
 
 ###
 
